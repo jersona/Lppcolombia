@@ -1,0 +1,180 @@
+
+
+
+*{ box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{ background-color:black;
+    background-image: url(/IMAGES/fondo1.jpg); 
+    color:yellow;
+}
+
+.temporizador{
+    display: flex;
+    justify-content: center;
+    margin-top: 9%;
+}
+.temporizador .bloque1{
+    margin: 0px 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+    color:red;
+    
+}
+
+.bloque1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    font-size: 45px;
+}
+.temporizador .bloque2{
+    margin:0px 4px ;
+    font-size: 45px;
+    color:blue;
+
+}
+.temporizador .bloque3{
+    margin: 0px 4px; 
+    font-size: 45px;
+    color: yellow;
+}
+.temporizador .bloque4{
+     margin: 0px 4px;
+     font-size: 45px;
+     color: blue;
+}
+a{   color:black;
+    text-decoration: none;
+}
+.presentacion{ margin:50px;   
+       }
+    
+
+
+
+/*segundo*/
+
+
+.segundo h2{ color: white;
+    margin: 0px 340px;
+             font-size: 80px;
+             text-emphasis: none;
+              font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.parrafo-segundo{ margin: 13px;
+    font-size: 15px;
+}
+ .tow{ font-size: 30px;
+     margin: 15px 15px;
+ }
+ /*new-cars*/
+
+h1{ color:rgb(13, 13, 168);
+    margin: 53px 50px;
+    padding: 25px 0px;
+
+}
+
+footer{font-size: 10px;
+    margin: 45px 65px ;
+
+}
+.newti{ margin: 10px 20px;
+    padding: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*notic*/
+h3{  color:red;
+    font-size: 30px;
+    margin: 53px 50px;
+    height:6px;
+    
+}
+a{
+    color:white;
+    font-size: 10px;
+    margin:53px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.not1{
+    margin: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+h4{ 
+    font-size: 30px;
+    margin: 53px 50px;
+}
+.mrt{
+    margin: 53px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    font-size: 30px;
+    margin: 53px 50px;
+}
+.nrt{
+    margin: 53px 50px;
+    color:red;
+    font-size: 30px;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+video{
+    width: 20%;
+    margin:53px;
+
+}
+footer{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.noticia5{
+    font-size: 20px;
+    margin: 53px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*-wordms*/
+.xtx{ margin: 53px 50px;
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.btn{
+    cursor: pointer ;
+    display: inline-block;
+    border: 0px;
+    font-weight: bold;
+    padding: 10px 0px;
+    background-color: rgb(224, 30, 30);
+    color: black;
+    font-size: 35px;
+    border: 1px solid rgb(0, 15, 228); }
+
+
+.find{
+    color: white;
+    font-size: 40px;
+    align-items: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
